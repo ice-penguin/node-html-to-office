@@ -1,6 +1,6 @@
 {
   "name": "node-html-to-office",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "node html跟office文档转换",
   "main": "index.js",
   "directories": {
