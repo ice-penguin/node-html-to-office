@@ -1,0 +1,26 @@
+{
+  "name": "node-html-to-office",
+  "version": "1.0.1",
+  "description": "node html跟office文档转换",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice-penguin/node-html-to-office.git"
+  },
+  "author": "penguinhj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ice-penguin/node-html-to-office/issues"
+  },
+  "homepage": "https://github.com/ice-penguin/node-html-to-office#readme",
+  "dependencies": {
+    "html-docx-js": "^0.3.1"
+  }
+}
